@@ -20,25 +20,19 @@ Create a folder, it will be used for containing the shortcut that will be create
 
 Locate an **existing** shortcut to the Windows command line. In *most* Windows 10 installations a command line shortcut is located in the *Start Menu* under the *Windows System* menu - 
 
-<p align="center">
-  <img src="./mdimg/step-2.png" alt="Step 2" txt="Step 2"/>
-</p>
+![Alt text](./mdimg/step-2.png "Step 2")
 
 ### Step 3 - Open shortcut file location
 
 Right-click on the *Command Prompt* and hover over *More* and then click "*Open file location*".
 
-<p align="center">
-  <img src="./mdimg/step-3.png" alt="Step 3" txt="Step 3"/>
-</p>
+![Alt text](./mdimg/step-3.png "Step 3")
 
 ### Step 4 - Copy the command line shortcut
 
 An explorer window has opened, now right-click on the *Command Prompt* icon and choose *Copy*.
 
-<p align="center">
-  <img src="./mdimg/step-4.png" alt="Step 4" txt="Step 4"/>
-</p>
+![Alt text](./mdimg/step-4.png "Step 4")
 
 ### Step 5 - Paste the command line shortcut
 
@@ -61,17 +55,13 @@ Change the contents of the *Target* field to contain `%windir%\system32\cmd.exe 
 
 **Note :** Leave the properties dialog open for the next step.
 
-<p align="center">
-  <img src="./mdimg/step-6a.png" alt="Step 6A" txt="Step 6A"/>
-</p>
+![Alt text](./mdimg/step-6a.png "Step 6A")
 
 #### Step 6B - Properties, General tab changes
 
 With the properities dialog *still opened* go to the *General* tab and modify the field at the top near the icon to read 'Run mongod`.
 
-<p align="center">
-  <img src="./mdimg/step-6b.png" alt="Step 6B" txt="Step 6B"/>
-</p>
+![Alt text](./mdimg/step-6b.png "Step 6B")
 
 #### Step 6C - Save the shortcut changes
 
@@ -81,9 +71,7 @@ Now click the *OK* button and your changes to the shortcut will be saved.
 
 If you want to have access to the shortcut through a *tile* on your start menu right-click on your *Run mongod* short cut and choose *Pin to Start*. Then go to your start menu tiles and move or resize the new tile as needed.
 
-<p align="center">
-  <img src="./mdimg/step-7.png" alt="Step 7" txt="Step 7"/>
-</p>
+![Alt text](./mdimg/step-7.png "Step 7")
 
 ### Step 8 - *Optional* : Change the Icon
 
@@ -91,20 +79,14 @@ You can optionally change the icon. Changing it might make it easier to recogniz
 
 Right-click on your new *Run mongod* shortcut and choose *Properties*. Then go to the *General* tab and click the *Change Icon...* button.
 
-<p align="center">
-  <img src="./mdimg/step-8-1.png" alt="Step 8-1" txt="Step 8-1"/>
-</p>
+![Alt text](./mdimg/step-8-1.png "Step 8-1")
 
 A new dialog will come up showing only 1 icon. To get a better selection of icons click the *Browse...* button and choose the `imageres.dll` file and click *Open*.
 
-<p align="center">
-  <img src="./mdimg/step-8-2.png" alt="Step 8-2" txt="Step 8-2"/>
-</p>
+![Alt text](./mdimg/step-8-2.png "Step 8-2")
 
 Now you have a wide range of icons to choose from, select one and then cick *Ok* and then click *Ok* on the shortcut properties dialog.
 
-<p align="center">
-  <img src="./mdimg/step-8-3.png" alt="Step 8-3" txt="Step 8-3"/>
-</p>
+![Alt text](./mdimg/step-8-3.png "Step 8-3")
 
 
