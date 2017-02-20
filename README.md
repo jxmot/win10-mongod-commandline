@@ -1,4 +1,4 @@
-# How-To : Run **mondgod** Automatically From a Shortcut (*Windows 10*)
+# How-To : Run **mongod** Automatically From a Shortcut (*Windows 10*)
 
 This file provides instructions for creating a *Windows* command line shortcut that will run `mongod` automatically when it's opened.
 
