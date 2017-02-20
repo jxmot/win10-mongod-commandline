@@ -90,3 +90,6 @@ Now you have a wide range of icons to choose from, select one and then cick *Ok*
 ## Done!
 
 You should now have a shortcut that will run `mongod` automatically for you. To stop `mongod` and close the window just click the *X* in the upper right corner of the mongod command line window.
+
+(c) 2017 Jim Motyl
+
