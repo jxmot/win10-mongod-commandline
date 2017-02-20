@@ -1,4 +1,4 @@
-# Run `mondgod` Automatically From a Shortcut (*Windows*)
+# Run **mondgod** Automatically From a Shortcut (*Windows 10*)
 
 This file provides instructions for creating a *Windows* command line shortcut that will run `mongod` automatically when it's opened.
 
@@ -8,9 +8,7 @@ It is assumed that **MongoDB** has been successfully installed on your PC or lap
 
 The instructions in this document were created while using *Windows 10*.
 
-## Instructions - Overview
-
-## Instructions - Details
+## Instructions
 
 ### Step 1 - Create a new folder
 
